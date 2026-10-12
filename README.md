@@ -42,7 +42,7 @@ Your folder structure should look like this:
 ### Setup GCP Service Account
 
 - To set up a service account, go to the [GCP Console](https://console.cloud.google.com/home/dashboard), search for "Service accounts" in the top search box, or navigate to "IAM & Admin" > "Service accounts" from the top-left menu. 
-- Create a new service account called "data-service-account." 
+- Create a new service account called "data-service-account" 
 - In "Grant this service account access to project" select "Cloud Storage" > "Storage Admin".
 - This will create a service account.
 - Click in service account and navigate to the tab "KEYS"
